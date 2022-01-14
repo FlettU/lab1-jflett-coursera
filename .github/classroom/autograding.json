@@ -3,7 +3,7 @@
     {
       "name": "Test1",
       "setup": "",
-      "run": "python3 lab1.py",
+      "run": "python3 Lab1.py",
       "input": "",
       "output": "Hello World!",
       "comparison": "included",
